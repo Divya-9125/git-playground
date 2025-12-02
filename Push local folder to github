@@ -1,0 +1,252 @@
+Microsoft Windows [Version 10.0.26100.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DIVYA>cd Downloads
+
+C:\Users\DIVYA\Downloads>cd
+C:\Users\DIVYA\Downloads
+
+C:\Users\DIVYA\Downloads>cd ..
+
+C:\Users\DIVYA>cd../..
+
+C:\>cd Users
+
+C:\Users>c:
+
+C:\Users>C:
+
+C:\Users>cd divya
+
+C:\Users\DIVYA>cd desktop
+
+C:\Users\DIVYA\Desktop>cd java
+
+C:\Users\DIVYA\Desktop\java>git init
+Initialized empty Git repository in C:/Users/DIVYA/Desktop/java/.git/
+
+C:\Users\DIVYA\Desktop\java>git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Disable this message with "git config set advice.addEmptyPathspec false"
+
+C:\Users\DIVYA\Desktop\java>git add .
+
+C:\Users\DIVYA\Desktop\java>git commit -m "Initial Commit"
+[main (root-commit) 077337e] Initial Commit
+ 95 files changed, 3122 insertions(+)
+ create mode 100644 .vscode/settings.json
+ create mode 100644 AllLetterWord.java
+ create mode 100644 Atcoder/ABC416/A.java
+ create mode 100644 Atcoder/ABC416/B.java
+ create mode 100644 Atcoder/ABC417/A.java
+ create mode 100644 Atcoder/ABC417/B.java
+ create mode 100644 Atcoder/ABC417/C.java
+ create mode 100644 Atcoder/ABC420/A.java
+ create mode 100644 Atcoder/ABC420/B.java
+ create mode 100644 Atcoder/ABC420/C.java
+ create mode 100644 Atcoder/ABC421/A.java
+ create mode 100644 Atcoder/ABC421/B.java
+ create mode 100644 Atcoder/ABC421/C.java
+ create mode 100644 Atcoder/ABC422/A.java
+ create mode 100644 Atcoder/ABC422/B.java
+ create mode 100644 Atcoder/ABC422/C.java
+ create mode 100644 Atcoder/ABC423/A.java
+ create mode 100644 Atcoder/ABC423/B.java
+ create mode 100644 Atcoder/ABC423/C.java
+ create mode 100644 Atcoder/ABC424/A.java
+ create mode 100644 Atcoder/ABC424/B.java
+ create mode 100644 Atcoder/ABC424/C.java
+ create mode 100644 Atcoder/ABC424/D.java
+ create mode 100644 Atcoder/ABC425/A.java
+ create mode 100644 Atcoder/ABC425/B.java
+ create mode 100644 Atcoder/ABC425/C.java
+ create mode 100644 Atcoder/ABC426/A.java
+ create mode 100644 Atcoder/ABC426/B.java
+ create mode 100644 Atcoder/ABC426/C.java
+ create mode 100644 Atcoder/ABC426/D.java
+ create mode 100644 Atcoder/ABC427/A.java
+ create mode 100644 Atcoder/ABC427/B.java
+ create mode 100644 Atcoder/ABC427/C.java
+ create mode 100644 Atcoder/ABC433/A.java
+ create mode 100644 Atcoder/ABC433/B.java
+ create mode 100644 Atcoder/ABC433/C.java
+ create mode 100644 Atcoder/ABC433/D.java
+ create mode 100644 Atcoder/ABC434/A.java
+ create mode 100644 Atcoder/ABC434/B.java
+ create mode 100644 Atcoder/ABC434/C.java
+ create mode 100644 BFS.java
+ create mode 100644 Codeforces/R1039/recyclingCenter.java
+ create mode 100644 Codeforces/R1040/A.java
+ create mode 100644 Codeforces/R1042/A.java
+ create mode 100644 Codeforces/R1042/B.java
+ create mode 100644 Codeforces/R1043/A.java
+ create mode 100644 Codeforces/R1045/A.java
+ create mode 100644 Codeforces/R1046/A.java
+ create mode 100644 Codeforces/R1047/A.java
+ create mode 100644 Codeforces/R1047/B.java
+ create mode 100644 Codeforces/R1047/C.java
+ create mode 100644 Codeforces/R1048/A.java
+ create mode 100644 Codeforces/R1048/B.java
+ create mode 100644 Codeforces/R1048/C.java
+ create mode 100644 Codeforces/R1049/A.java
+ create mode 100644 Codeforces/R1049/B.java
+ create mode 100644 Codeforces/R1050/A.java
+ create mode 100644 Codeforces/R1050/B.java
+ create mode 100644 Codeforces/R1050/C.java
+ create mode 100644 Codeforces/R1050/D.java
+ create mode 100644 Codeforces/R1051/A.java
+ create mode 100644 Codeforces/R182/A.java
+ create mode 100644 Codeforces/R182/b.java
+ create mode 100644 Juspay/customer.java
+ create mode 100644 Juspay/factory.java
+ create mode 100644 Main.java
+ create mode 100644 Palindrom.java
+ create mode 100644 Strings.java
+ create mode 100644 Trilogy/automorphicNumber.java
+ create mode 100644 Trilogy/course.java
+ create mode 100644 Trilogy/discount.java
+ create mode 100644 Trilogy/month.java
+ create mode 100644 Trilogy/moveHash.java
+ create mode 100644 Trilogy/stringComposition.java
+ create mode 100644 atleast.java
+ create mode 100644 bigInteger.java
+ create mode 100644 brainStroming.java
+ create mode 100644 choco.java
+ create mode 100644 countingRooms.java
+ create mode 100644 dataPattern.java
+ create mode 100644 decoding.java
+ create mode 100644 disJointSets.java
+ create mode 100644 firstImposssibleCoin.java
+ create mode 100644 gcd.java
+ create mode 100644 hexa.java
+ create mode 100644 inheritance.java
+ create mode 100644 javaConnection/MySQLConnect.java
+ create mode 100644 largestIsland.java
+ create mode 100644 minFlips.java
+ create mode 100644 palindrom1.java
+ create mode 100644 pattern.java
+ create mode 100644 rangeQuery1.py
+ create mode 100644 sieve.java
+ create mode 100644 sparseTable.java
+ create mode 100644 waterJug.java
+
+C:\Users\DIVYA\Desktop\java>git remote add origin https://github.com/Divya-9125/DSA.git
+
+C:\Users\DIVYA\Desktop\java>git branch -M main
+
+C:\Users\DIVYA\Desktop\java>git push -u origin main
+Enumerating objects: 127, done.
+Counting objects: 100% (127/127), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (118/118), done.
+Writing objects: 100% (127/127), 37.99 KiB | 1.52 MiB/s, done.
+Total 127 (delta 15), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (15/15), done.
+To https://github.com/Divya-9125/DSA.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+C:\Users\DIVYA\Desktop\java>git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\Users\DIVYA\Desktop\java>git branch
+* main
+
+C:\Users\DIVYA\Desktop\java>git branch 0m
+
+C:\Users\DIVYA\Desktop\java>git branch -m
+fatal: branch name required
+
+C:\Users\DIVYA\Desktop\java>git branch -r
+  origin/main
+
+C:\Users\DIVYA\Desktop\java>git checkout -b mybranch
+Switched to a new branch 'mybranch'
+
+C:\Users\DIVYA\Desktop\java>git push -u origin mybranch
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 685 bytes | 228.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote:
+remote: Create a pull request for 'mybranch' on GitHub by visiting:
+remote:      https://github.com/Divya-9125/DSA/pull/new/mybranc
+remote:
+To https://github.com/Divya-9125/DSA.git
+ * [new branch]      mybranch -> mybranch
+branch 'mybranch' set up to track 'origin/mybranch'.
+
+C:\Users\DIVYA\Desktop\java>git branch
+  0m
+  main
+* mybranch
+
+C:\Users\DIVYA\Desktop\java>git branch -r
+  origin/main
+  origin/mybranch
+
+C:\Users\DIVYA\Desktop\java>git status
+On branch mybranch
+Your branch is up to date with 'origin/mybranch'.
+
+nothing to commit, working tree clean
+
+C:\Users\DIVYA\Desktop\java>git branch -u origin/0m
+fatal: the requested upstream branch 'origin/0m' does not exist
+hint:
+hint: If you are planning on basing your work on an upstream
+hint: branch that already exists at the remote, you may need to
+hint: run "git fetch" to retrieve it.
+hint:
+hint: If you are planning to push out a new local branch that
+hint: will track its remote counterpart, you may want to use
+hint: "git push -u" to set the upstream config as you push.
+hint: Disable this message with "git config set advice.setUpstreamFailure false"
+
+C:\Users\DIVYA\Desktop\java>git branch -u 0m
+branch 'mybranch' set up to track '0m'.
+
+C:\Users\DIVYA\Desktop\java>git push
+fatal: The upstream branch of your current branch does not match
+the name of your current branch.  To push to the upstream branch
+on the remote, use
+
+    git push . HEAD:0m
+
+To push to the branch of the same name on the remote, use
+
+    git push . HEAD
+
+To choose either option permanently, see push.default in 'git help config'.
+
+To avoid automatically configuring an upstream branch when its name
+won't match the local branch, see option 'simple' of branch.autoSetupMerge
+in 'git help config'.
+
+
+C:\Users\DIVYA\Desktop\java>git branch
+  0m
+  main
+* mybranch
+
+C:\Users\DIVYA\Desktop\java>git branch -d 0m
+Deleted branch 0m (was ae86f0a).
+
+C:\Users\DIVYA\Desktop\java>git status
+On branch mybranch
+Your branch is based on '0m', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+
+C:\Users\DIVYA\Desktop\java>git branch --unset-upstream
+
+C:\Users\DIVYA\Desktop\java>
