@@ -1,0 +1,96 @@
+C:\Users\DIVYA\Desktop\java>git status
+On branch mybranch
+nothing to commit, working tree clean
+
+C:\Users\DIVYA\Desktop\java>git branch
+  main
+* mybranch
+
+C:\Users\DIVYA\Desktop\java>git branch main
+fatal: a branch named 'main' already exists
+
+C:\Users\DIVYA\Desktop\java>git branch -d mybranch
+error: cannot delete branch 'mybranch' used by worktree at 'C:/Users/DIVYA/Desktop/java'
+
+C:\Users\DIVYA\Desktop\java>git switch main
+Switched to branch 'main'
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+C:\Users\DIVYA\Desktop\java>git branch -d mybranch
+Deleted branch mybranch (was ae86f0a).
+
+C:\Users\DIVYA\Desktop\java>git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\Users\DIVYA\Desktop\java>git brach
+git: 'brach' is not a git command. See 'git --help'.
+
+The most similar command is
+        branch
+
+C:\Users\DIVYA\Desktop\java>git branch
+* main
+
+C:\Users\DIVYA\Desktop\java>git branch -r
+  origin/main
+  origin/mybranch
+
+C:\Users\DIVYA\Desktop\java>git branch delete oringin/mybranch
+fatal: not a valid object name: 'oringin/mybranch'
+
+C:\Users\DIVYA\Desktop\java>git branch delete origin/mybranch
+branch 'delete' set up to track 'origin/mybranch'.
+
+C:\Users\DIVYA\Desktop\java>git branch -r
+  origin/main
+  origin/mybranch
+
+C:\Users\DIVYA\Desktop\java>git push origin --delete mybranch
+To https://github.com/Divya-9125/DSA.git
+ - [deleted]         mybranch
+
+C:\Users\DIVYA\Desktop\java>git branch -r
+  origin/main
+
+C:\Users\DIVYA\Desktop\java>git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\Users\DIVYA\Desktop\java>git add .
+
+C:\Users\DIVYA\Desktop\java>git commit -m "EdgeVerve Question1"
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\Users\DIVYA\Desktop\java>git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 685 bytes | 342.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Divya-9125/DSA.git
+   077337e..ae86f0a  main -> main
+
+C:\Users\DIVYA\Desktop\java>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\DIVYA\Desktop\java>git branch -r
+  origin/main
+
+C:\Users\DIVYA\Desktop\java>
